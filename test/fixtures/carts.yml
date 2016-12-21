@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: MyString
+  totalPrice: MyString
+  decimal: MyString
+
+two:
+  status: MyString
+  totalPrice: MyString
+  decimal: MyString

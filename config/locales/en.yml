@@ -1,12 +1,28 @@
-en:
-  ecommerce: "ECOMMERCE"
-  titles: "Home"
-  head: "Welcome to Framgia ECOMMERCE System"
-  title: "ECOMMERCE"
-  home: "Home"
-  sign_up: "Sign up"
-  login: "Login"
 
+en:
+  login_invalid: "Invalid Email/Password"
+  save_change: "Save Change"
+  edit_user: "Edit User"
+  register: "Register"
+  log_out : "Logout"
+  log_in : "Login"
+  error: "Error"
+  name: "Name"
+  email: "Email"
+  not_found: "User's Not Found"
+  the_form_contains: "The form contains"
+  register_sucess : "Register Succeed"
+  new_user: "New User ?"
+  profile_updated : "Profile updated"
+  update_profile: "Update Your Profile"
+  layouts:
+    application:
+      title: "Project 1"
+    header:
+      logo: "Website"
+      account: "Account"
+      profile: "Profile"
+      setting: "Setting"
   static_pages:
     home:
       ct: "This is the static home page of Framgia ECOMMERCE System."
@@ -15,3 +31,5 @@ en:
     footer:
       ft: "Framgia ECOMMERCE by Ngoc"
       year: "2016"
+success: "success"
+fail: "fail"

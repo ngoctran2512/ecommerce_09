@@ -1,17 +1,33 @@
 en:
   ecommerce: "ECOMMERCE"
-  titles: "Home"
   head: "Welcome to Framgia ECOMMERCE System"
-  title: "ECOMMERCE"
+  titles: "ECOMMERCE"
   home: "Home"
   sign_up: "Sign up"
   login: "Login"
-
-  static_pages:
-    home:
-      ct: "This is the static home page of Framgia ECOMMERCE System."
-      welcome: Welcome to ECOMMERCE
+  users:
+    new:
+      create_my_account: "Create my account"
+      title: "Sign up"
+      create: "234234"
+      error: "error"
+      success: "Welcome to the ECOMMERCE"
+  shared:
+    error_messages:
+    error: "error"
+    the_form: "The form contains"
+    sessions: "!23123"
+  new:
+    log_in: "Log in"
+    remember: "Remember me on this computer"
+    sign_up: "Sign up"
+    new_user: "New user"
+    create: "123213"
+    danger: "Invalid email/password combination"
   layouts:
-    footer:
-      ft: "Framgia ECOMMERCE by Ngoc"
-      year: "2016"
+    header:
+      profile: "Profile"
+      settings: "Settings"
+      log_out: "Log out"
+      user: " Member"
+      account: "Account"
